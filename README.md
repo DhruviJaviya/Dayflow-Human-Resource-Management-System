@@ -10,3 +10,13 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# Demo User
+## Admin
+### userName : OIADMI20240001
+### PassWord : AdminPassword123!
+
+## Employee
+### userName : OIJODO20240002
+### PassWord : TempPass123!
+
