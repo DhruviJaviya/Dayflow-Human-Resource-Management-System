@@ -1,0 +1,5 @@
+{
+  "name": "ODOO Employee Management System",
+  "description": "A secure employee management portal with automatic ID generation, role-based access, and mandatory first-time password changes.",
+  "requestFramePermissions": []
+}
